@@ -1,0 +1,71 @@
+Manifest-Version: 1.0
+
+Name: META-INF/com/android/metadata
+SHA-256-Digest: tH/VYYLl4uq/mGw8HrsF5tTHL8n3UcPdsCzTspc3MVM=
+
+Name: META-INF/com/android/otacert
+SHA-256-Digest: /4XYvFDk7tTF9Uc0sgAD6EWo7l8ga/5xczWtWU3QGl4=
+
+Name: META-INF/com/google/android/update-binary
+SHA-256-Digest: or3VvsREiW0mg3aZtS5uyMXE2EW4ldXiMhz15x/ZlHs=
+
+Name: META-INF/com/google/android/updater-script
+SHA-256-Digest: vvkf83qDyTaHKb+PmjPEgcqYwhCHG02PSYMZ82eqPmM=
+
+Name: firmware-update/abl.elf
+SHA-256-Digest: +qx/ZEtWBsLUTUjUgqY8ldG7CsMGhKfbT2c36CKSnJg=
+
+Name: firmware-update/aop.img
+SHA-256-Digest: pFEI4TiMtYUMb2C+5HnOAIFI72xZ7W9dr/7bcONsbgo=
+
+Name: firmware-update/bluetooth.img
+SHA-256-Digest: jppX25ufbBkN5oe+DAuQkC25aUNVwuxy8GoMmc+2ryU=
+
+Name: firmware-update/cmnlib.img
+SHA-256-Digest: nUGruK1dxX+Gi20vuqC+Cb2UON+qc2o43a2t5yFwnuM=
+
+Name: firmware-update/cmnlib64.img
+SHA-256-Digest: ti/mEInLOVyNng1n2q8NUqfkAxijJcq94aiYfQYkHfE=
+
+Name: firmware-update/devcfg.img
+SHA-256-Digest: A4Qx0cDDFiVmEV4uJdO3oGjqdNQhfSOjyrqbt1Vk/JA=
+
+Name: firmware-update/dsp.img
+SHA-256-Digest: YqnPejLF3jVrUNjjMtzcdUruxUJrAvnsbWpMyXeRpoQ=
+
+Name: firmware-update/hyp.img
+SHA-256-Digest: AufKdcfHDrKzdWqviGtkWUtNS2dv8WTOoluCxUIIp8A=
+
+Name: firmware-update/keymaster.img
+SHA-256-Digest: rCUeXeWvatLWkNinRUUYAE0QIn5kLS1UOnou4b48xho=
+
+Name: firmware-update/logo.img
+SHA-256-Digest: Mc+iwHbMS8ykrJ32sGUkTnQ2ZTwWkTDF/Hg7qyWg+Lg=
+
+Name: firmware-update/modem.img
+SHA-256-Digest: IuGwHeRuVSz856Mw6GiaIarvv37akmTdAEgvHv2RlwA=
+
+Name: firmware-update/qupfw.img
+SHA-256-Digest: YX403bPdrbEFdopt+AHxYvIGxDtOTWy/ZdDfBfcyuoM=
+
+Name: firmware-update/storsec.img
+SHA-256-Digest: uW17pmD33kE0gOD1iFvo0Hzuh95uFsaMzdB+mHbBMBY=
+
+Name: firmware-update/tz.img
+SHA-256-Digest: eV8WsIdWcxz5ZTqxl1kQ1JXSap6s7q0kF9yLOiliJdc=
+
+Name: firmware-update/xbl.img
+SHA-256-Digest: Jn/k3wdIQ5zTr1PZvVvYBkDKZnp9fJWSrumGvx7EvQg=
+
+Name: firmware-update/xbl_config.img
+SHA-256-Digest: DkQfc7lwMvBZqIeXbi4429cSJTojyL5p0iVKMiPf+8A=
+
+Name: vendor.new.dat.br
+SHA-256-Digest: ZFf/oUVkUcrTaD3F+imxFu9UfG1CNVeXx74UTvupjaw=
+
+Name: vendor.patch.dat
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: vendor.transfer.list
+SHA-256-Digest: crdtWX70H9WY36Qbg0xP05m/uevsE2IISXdrLc9zfE0=
+

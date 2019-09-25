@@ -1,0 +1,74 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: kQEWavIM2aWgPsTg8rDZP+ammA1CHUm4cfEzSUQr3+w=
+X-Android-APK-Signed: 2, 3
+
+Name: META-INF/com/android/metadata
+SHA-256-Digest: EiRbem7+Fus4IBzu7qZgKkqSoz7AlxezxcDo2Wga1Fs=
+
+Name: META-INF/com/android/otacert
+SHA-256-Digest: 7lp0TdI58WZAJprpnIDsYEsNyJ2kERaRtDq+/s3gA5Y=
+
+Name: META-INF/com/google/android/update-binary
+SHA-256-Digest: Je3vfTHB1HkvMwMnUpQmk+wpj9Xf4doMIuZWyvDkJhQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA-256-Digest: x/wNbogTzOh1Je2potwPBRzTvVkdFle418SkOzyela8=
+
+Name: firmware-update/abl.elf
+SHA-256-Digest: Hn9ihRCGHIafrGZR+lpbMNm9p+WncKFvpPpLfbWWPOg=
+
+Name: firmware-update/aop.img
+SHA-256-Digest: U16n0ZoJjD8HhlsRwD3tQtXOLEqFYeFQ3Fr2sIw3uDY=
+
+Name: firmware-update/bluetooth.img
+SHA-256-Digest: YpYXHE/1nmYczog554abvBUKgaTWQXuFvei7zdD2Yvc=
+
+Name: firmware-update/cmnlib.img
+SHA-256-Digest: rst2MuJbrSOHh7RsmbEOr8T9U0MugQoxrbh7YnhJ4Ps=
+
+Name: firmware-update/cmnlib64.img
+SHA-256-Digest: o6oaroz1YMOqYCy+iXBlTLpKzcsfoPXl+2TmoExxyFI=
+
+Name: firmware-update/devcfg.img
+SHA-256-Digest: ZtP7ghBtW1RDpCCMFLzHgpHsaWc7DWsdDukkXX22m/w=
+
+Name: firmware-update/dsp.img
+SHA-256-Digest: atbAMafJefhlOVt875thgUMsq3+iabOuriTbck6uE98=
+
+Name: firmware-update/hyp.img
+SHA-256-Digest: pEu8ZMgy/8lzOgoir8aWxDGAPMsAm4ZC7lDgv8Ul8pc=
+
+Name: firmware-update/keymaster.img
+SHA-256-Digest: xDQAQF/lQG6IrEee4OTaIDDDO5Ies+utcCaTog1JVE4=
+
+Name: firmware-update/logo.img
+SHA-256-Digest: t5nMc00rcPGSMsfFZplVdaXwXWgeVqoZ5VWwaeKBw9E=
+
+Name: firmware-update/modem.img
+SHA-256-Digest: GdM9Xi+J8ndCjV6tKC5fyLPNIDHwNx9F+DKaawJR68s=
+
+Name: firmware-update/qupfw.img
+SHA-256-Digest: RqnoWqWZKL4iWgL3K1G5TNOaVGSQW/+YQVA0jcsc15w=
+
+Name: firmware-update/storsec.img
+SHA-256-Digest: FnxPLgpmBBihEN+YkDnfyi+dPBf8LLiqSQ+gdbQrEqw=
+
+Name: firmware-update/tz.img
+SHA-256-Digest: HqxWc/de1Ehdcn/7xV5ukD2zTTje40GS1MSwQoc/MDw=
+
+Name: firmware-update/xbl.img
+SHA-256-Digest: scEbeSJEcKeA2LAgAiRwKVRnO4jRkwWj5IaAeRgztv8=
+
+Name: firmware-update/xbl_config.img
+SHA-256-Digest: XzY1d/jpU1JtCCF5cx1ogT75t+uVUYSZAKJbov9CnHI=
+
+Name: vendor.new.dat.br
+SHA-256-Digest: XI1o3o29kBeQd/P2UsVtTQiHmFNPh122E8cY0yTU+so=
+
+Name: vendor.patch.dat
+SHA-256-Digest: vpzeHFG9rX/ycEaKFx/cvQRZJ1mrlWcnN1/PY1MnnEI=
+
+Name: vendor.transfer.list
+SHA-256-Digest: K8En6KUNV9N+13zEid4AIMd6/l2vdqRV8Y8L1ioLRMI=
+

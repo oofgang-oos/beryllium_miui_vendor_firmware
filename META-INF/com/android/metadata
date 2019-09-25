@@ -1,9 +1,0 @@
-ota-property-files=metadata:69:315         
-ota-required-cache=0
-ota-type=BLOCK
-post-build=Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V10.3.4.0.PEJMIXM:user/release-keys
-post-build-incremental=V10.3.4.0.PEJMIXM
-post-sdk-level=28
-post-security-patch-level=2019-03-01
-post-timestamp=1554284405
-pre-device=beryllium
